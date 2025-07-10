@@ -1,0 +1,4 @@
+Installing SASS
+
+1. Create the 0x03-sass_scss file inside the alx-intermediate-frontend directory.
+2. To install SASS, run the command 'npm install -g sass' on the terminal if you have node installed in your computer. Run this command while in the directory where the SASS is to be used.
